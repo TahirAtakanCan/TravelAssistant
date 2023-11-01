@@ -14,6 +14,7 @@
 		FBC9293C2AF228D8007EB943 /* TravelAssistant.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FBC9293A2AF228D8007EB943 /* TravelAssistant.xcdatamodeld */; };
 		FBC9293E2AF228D9007EB943 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBC9293D2AF228D9007EB943 /* Assets.xcassets */; };
 		FBC929412AF228D9007EB943 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBC9293F2AF228D9007EB943 /* LaunchScreen.storyboard */; };
+		FBF61F4C2AF2652700612B63 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF61F4B2AF2652700612B63 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FBC9293D2AF228D9007EB943 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBC929402AF228D9007EB943 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBC929422AF228D9007EB943 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBF61F4B2AF2652700612B63 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FBC929312AF228D8007EB943 /* AppDelegate.swift */,
 				FBC929332AF228D8007EB943 /* SceneDelegate.swift */,
 				FBC929352AF228D8007EB943 /* ViewController.swift */,
+				FBF61F4B2AF2652700612B63 /* ListViewController.swift */,
 				FBC929372AF228D8007EB943 /* Main.storyboard */,
 				FBC9293D2AF228D9007EB943 /* Assets.xcassets */,
 				FBC9293F2AF228D9007EB943 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				FBC9293C2AF228D8007EB943 /* TravelAssistant.xcdatamodeld in Sources */,
 				FBC929362AF228D8007EB943 /* ViewController.swift in Sources */,
 				FBC929322AF228D8007EB943 /* AppDelegate.swift in Sources */,
+				FBF61F4C2AF2652700612B63 /* ListViewController.swift in Sources */,
 				FBC929342AF228D8007EB943 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
